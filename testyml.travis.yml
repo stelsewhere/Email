@@ -1,0 +1,11 @@
+language: python
+python:
+- 3.8
+
+notifications:
+ email:
+  recipients:
+   - lucy.kladko@gmail.com
+    
+    on_success: always
+    on_failure: always
